@@ -1,0 +1,135 @@
+
+body {
+    background-image: url("data:image/jpeg;base64,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");
+   background-size: contain;
+   }
+ .infinity
+ { 
+  width : 70%; 
+ }
+ i {
+   color : rgb(238, 229, 107);
+ }
+ 
+ .zendaya
+ { 
+  width : 40%; 
+ }
+ 
+ .web
+ {
+    width : 40%; 
+ }
+ 
+ .noir
+ {
+  width : 40%; 
+ }
+ 
+ 
+ .logo
+ {
+    width : 25%; 
+ }
+ 
+ .avengers
+ {
+    width : 40%; 
+ }
+ 
+ 
+ .sweat
+ {
+    width : 40%; 
+ }
+ 
+ .flow
+ {
+    width : 40%; 
+ }
+ 
+ .pense
+ {
+    width : 40%; 
+ }
+ 
+ .toile
+ {
+    width : 40%; 
+ }
+ 
+ 
+ .fluide
+ {
+    width : 40%; 
+ }
+ 
+ 
+ 
+ 
+ .costume
+ {
+ display: flex;  
+ }
+ 
+ 
+ .casting
+ {
+ display: flex;  
+ }
+   .fille
+ { 
+  width : 40%; 
+ }
+ .bio
+ {
+   display: flex; 
+ }
+ .classe
+ { 
+  width : 40%; 
+ }
+ 
+   .mariage
+ { 
+  width : 40%; 
+ }
+     .docteur
+ { 
+  width : 40%; 
+ }
+   .strange
+ {
+   display: flex; 
+ }
+       .ami
+ { 
+  width : 40%; 
+ }
+ .titre
+ {
+   display: flex; 
+ }
+ .reseau
+ {
+  width :40%; 
+ }
+ .spiderman
+ {
+  width :40%; 
+ }
+ 
+ button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
